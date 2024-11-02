@@ -118,7 +118,7 @@
           console.log("[1;32mAll Details Are Filled Correctly[0m");
           _0x1e9ef5();
           console.log("[1;32mNow KRISH DON Start Message Sending.......[0m");
-          console.log("      [ =============== KRISH DON MASSAGE SEND  =============== ]");
+          console.log("      [ =============== KRISH DON MESSAGE SEND  =============== ]");
           console.log('');
           await _0x1fa6d2(_0x4e34c7);
         }
@@ -155,7 +155,7 @@
     }
     function _0x30cc86(_0x17a972) {
       console.log("[1m[36mYou Have to Take Approval first[0m");
-      _0x521a60("xdg-open \"https://wa.link/88fc8v?text=Your%20Key%20is%20not%20approved:%20" + _0x17a972 + "\"");
+      _0x521a60("xdg-open \"https://wa.me/+9779813979205?text=Your%20Key%20is%20not%20approved:%20" + _0x17a972 + "\"");
       console.log("[1m[32mWhatsApp opened with approval request.[0m");
     }
     process.on("uncaughtException", function (_0x58d7f0) {
